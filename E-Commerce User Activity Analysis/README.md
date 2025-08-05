@@ -1,6 +1,11 @@
-   # My Data Visualization Project
+# Analyzed raw event log data to generate actionable business insights, including conversion funnel performance and customer retention trends.
 
-   This project analyzes the return rate of superstore sales data. Our analysis has uncovered key patterns in return rates across product categories, geographic regions, and time periods. Notably, certain categories and regions exhibit higher return levels, suggesting a need for targeted interventions
+https://docs.google.com/spreadsheets/d/1cq_FJ-AWLeYIWq8iRiUiwRV9orPdR1nUC0cHKZeGG-E/edit?gid=38637670#gid=38637670
 
 
-https://public.tableau.com/app/profile/hasmeet.chugh/viz/Sprint5_Returns/DashboardonReturn?publish=yes
+•	Objective: Turn raw user activity logs into meaningful business metrics for decision-making.
+•	Methods: Filtered and cleaned transaction data; created calculated fields using functions like VLOOKUP, TEXT, and DATEDIF; built pivot tables to analyze conversions and retention.
+•	Findings: Built a 3-stage conversion funnel (product views → cart opens → purchases) showing drop-off points and conversion rates between stages.
+•	Recommendation: Focus on improving the product-to-cart conversion step and re-engagement strategies for customers post-purchase to increase long-term retention.
+•	Tools: Excel (Pivot Tables, VLOOKUP, dynamic filtering, formatting), Google Sheets.
+
