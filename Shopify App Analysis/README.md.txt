@@ -1,4 +1,4 @@
-   # My Power BI Project
+Shopify App Analysis – Power BI Project Objective: Evaluate trends and success factors of apps on the Shopify App Store using publicly available data, with a focus on user engagement, app performance, and developer responsiveness.
 
- Review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites.  figure out what key factors play into the success of a Shopify app.
+Tools: Power BI, Excel, DAX, Data Modeling
 
